@@ -28,7 +28,8 @@
     "website": "6s980-machine-learning-for-inverse-graphics"
   },
   "course_title": "Machine Learning for Inverse Graphics",
-  "course_description": "This course covers fundamental and advanced techniques in this field at the intersection of computer vision, computer graphics, and geometric deep learning. It will lay the foundations of how cameras see the world, how we can represent 3D scenes for artificial intelligence, how we can learn to reconstruct these representations from only a single image, how we can guarantee certain kinds of generalization, and how we can train these models in a self-supervised way.",
+  "hide_download": true,
+  "course_description": "This course covers fundamental and advanced techniques in this field at the intersection of computer vision, computer graphics, and geometric deep learning. It will lay the foundations of how cameras see the world, how we can represent 3D scenes for artificial intelligence, how we can learn to reconstruct these representations from only a single image, how we can guarantee certain kinds of generalizations, and how we can train these models in a self-supervised way.",
   "department_numbers": [
     "6"
   ],
